@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>耳で覚える労働法</title>
+    <title>毎朝の社労士ラジオ ー 5分で学ぶ、今日のニュース</title>
     <link>https://akiimaeda2024.github.io/mimi-de-oboeru/</link>
     <language>ja</language>
-    <description>社会保険労務士をめざして勉強中の私が、その日に押さえておきたい労働法・社会保険のニュースを、毎日コンパクトにまとめてお届けする番組です。直近の法改正、注目の判例、試験対策になる白書・統計の数字などを、専門用語もできるだけかみくだいてお話しします。※内容は収録時点の法令にもとづきます。実際の手続きや判断は、最新の条文・通達と専門家の確認のうえで行ってください。</description>
-    <itunes:author>耳で覚える労働法</itunes:author>
-    <itunes:subtitle>今日の法改正・判例・白書を5分で。社労士をめざす私の毎朝アウトプット</itunes:subtitle>
-    <itunes:summary>社会保険労務士をめざして勉強中の私が、その日に押さえておきたい労働法・社会保険のニュースを、毎日コンパクトにまとめてお届けする番組です。直近の法改正、注目の判例、試験対策になる白書・統計の数字などを、専門用語もできるだけかみくだいてお話しします。※内容は収録時点の法令にもとづきます。実際の手続きや判断は、最新の条文・通達と専門家の確認のうえで行ってください。</itunes:summary>
+    <description>社労士をめざして勉強しながら、税理士事務所で労務を担当しています。毎朝5分、その日の法改正・判例・白書統計をかみくだいてお届けします。通勤・家事のながら聴きで、試験勉強と実務の両方に使えるよう、わかりやすさを心がけています。いつどんなチャンスが来るかわからない。だから、今日も5分。※内容は収録時点の法令にもとづきます。実際の手続きや判断は、最新の条文・通達と専門家の確認のうえで行ってください。</description>
+    <itunes:author>社労士ラジオ編集部</itunes:author>
+    <itunes:subtitle>法改正・判例・白書を毎朝5分で。社労士受験生＆労務担当者へ。</itunes:subtitle>
+    <itunes:summary>社労士をめざして勉強しながら、税理士事務所で労務を担当しています。毎朝5分、その日の法改正・判例・白書統計をかみくだいてお届けします。通勤・家事のながら聴きで、試験勉強と実務の両方に使えるよう、わかりやすさを心がけています。いつどんなチャンスが来るかわからない。だから、今日も5分。※内容は収録時点の法令にもとづきます。実際の手続きや判断は、最新の条文・通達と専門家の確認のうえで行ってください。</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover.jpg"/>
     <itunes:category text="Education"/>
     <itunes:owner>
-      <itunes:name>耳で覚える労働法</itunes:name>
+      <itunes:name>社労士ラジオ編集部</itunes:name>
       <itunes:email>imaedapodcast@gmail.com</itunes:email>
     </itunes:owner>
     <item>
