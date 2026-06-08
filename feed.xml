@@ -4,13 +4,13 @@
     <title>毎日5分の社労士ラジオ</title>
     <link>https://akiimaeda2024.github.io/mimi-de-oboeru/</link>
     <language>ja</language>
-    <description>社労士試験をめざす受験生のための、毎朝5分のニュース番組です。法改正・注目判例・白書統計を、試験に出るポイントを意識しながらかみくだいてお届けします。通勤や家事のながら聴きで、テキストだけでは追いきれない「直近の動き」を補完してください。同じく社労士をめざして勉強中の私が、毎朝続けています。いつどんなチャンスが来るかわからない。だから、今日も5分。※内容は収録時点の法令にもとづきます。実際の手続きや判断は、最新の条文・通達と専門家の確認のうえで行ってください。</description>
+    <description>社労士試験をめざす受験生のための、毎日5分のニュース番組です。法改正・注目判例・白書統計を、試験に出るポイントを意識しながらかみくだいてお届けします。通勤や家事のながら聴きで、テキストだけでは追いきれない「直近の動き」を補完してください。同じく社労士をめざして勉強中の私が、毎朝続けています。いつどんなチャンスが来るかわからない。だから、今日も5分。※内容は収録時点の法令にもとづきます。実際の手続きや判断は、最新の条文・通達と専門家の確認のうえで行ってください。</description>
     <itunes:author>社労士ラジオ編集部</itunes:author>
     <itunes:subtitle>法改正・判例・白書を毎日5分で。社労士受験生のための朝の習慣。</itunes:subtitle>
-    <itunes:summary>社労士試験をめざす受験生のための、毎朝5分のニュース番組です。法改正・注目判例・白書統計を、試験に出るポイントを意識しながらかみくだいてお届けします。通勤や家事のながら聴きで、テキストだけでは追いきれない「直近の動き」を補完してください。同じく社労士をめざして勉強中の私が、毎朝続けています。いつどんなチャンスが来るかわからない。だから、今日も5分。※内容は収録時点の法令にもとづきます。実際の手続きや判断は、最新の条文・通達と専門家の確認のうえで行ってください。</itunes:summary>
+    <itunes:summary>社労士試験をめざす受験生のための、毎日5分のニュース番組です。法改正・注目判例・白書統計を、試験に出るポイントを意識しながらかみくだいてお届けします。通勤や家事のながら聴きで、テキストだけでは追いきれない「直近の動き」を補完してください。同じく社労士をめざして勉強中の私が、毎朝続けています。いつどんなチャンスが来るかわからない。だから、今日も5分。※内容は収録時点の法令にもとづきます。実際の手続きや判断は、最新の条文・通達と専門家の確認のうえで行ってください。</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover.jpg"/>
+    <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v2.jpg"/>
     <itunes:category text="Education"/>
     <itunes:owner>
       <itunes:name>社労士ラジオ編集部</itunes:name>
@@ -47,7 +47,7 @@
       <pubDate>Mon, 08 Jun 2026 07:00:00 +0900</pubDate>
       <itunes:duration>6:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v2.jpg"/>
     </item>
     <item>
       <title>2026/6/7 障害者の法定雇用率2.7%へ／定年後再雇用の賃金（名古屋自動車学校事件）／最低賃金1,121円</title>
@@ -80,7 +80,7 @@
       <pubDate>Sun, 07 Jun 2026 07:00:00 +0900</pubDate>
       <itunes:duration>4:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v2.jpg"/>
     </item>
     <item>
       <title>2026/6/7夜 106万円の壁撤廃（10月）／日本郵便事件・非正規格差／実質賃金+1.9%</title>
@@ -113,7 +113,7 @@
       <pubDate>Sun, 07 Jun 2026 07:00:00 +0900</pubDate>
       <itunes:duration>7:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v2.jpg"/>
     </item>
     <item>
       <title>2026/6/6 育児・介護休業法の改正／職種限定合意と配置転換（最判令6.4.26）／年次有給休暇取得率66.9%</title>
@@ -146,7 +146,7 @@
       <pubDate>Sat, 06 Jun 2026 07:00:00 +0900</pubDate>
       <itunes:duration>4:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v2.jpg"/>
     </item>
     <item>
       <title>2026/6/6 カスハラ対策の義務化／定額残業代の有効性／労働経済白書・2024年の雇用情勢</title>
@@ -179,7 +179,7 @@
       <pubDate>Sat, 06 Jun 2026 06:00:00 +0900</pubDate>
       <itunes:duration>4:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v2.jpg"/>
     </item>
   </channel>
 </rss>
