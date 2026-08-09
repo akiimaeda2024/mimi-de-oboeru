@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>毎日5分の社労士ラジオ</title>
+    <title>受験生のための社労士ラジオ</title>
     <link>https://akiimaeda2024.github.io/mimi-de-oboeru/</link>
     <language>ja</language>
     <description>働きながら社労士をめざすあなたへ。毎朝5分、今日おさえる法改正・判例・数字だけ。続けられる軽さで、合格まで伴走します。※内容は収録時点の法令にもとづきます。実際の手続きや判断は、最新の条文・通達と専門家の確認のうえで行ってください。</description>
@@ -42,10 +42,10 @@
 令和7年の総争議は295件で、前年の278件から増加。内訳は、争議行為を伴う争議が77件（前年76件）、争議行為を伴わない争議が218件（前年202件）で、増えたのはストライキ等の実力行使に至らない争議のほう。主要要求事項をみると「賃金」に関するものが178件・総争議の60.3%で最も多く、次いで「組合保障及び労働協約」110件、「経営・雇用・人事」82件。争議のおよそ6割は賃金をめぐって起きている。制度もセットで押さえる＝労働関係調整法が定める労働委員会による調整はあっせん・調停・仲裁の3種類、公益事業の争議行為は少なくとも10日前までに労働委員会と厚生労働大臣または都道府県知事へ通知（労調法37条）、緊急調整は内閣総理大臣が決定し公表の日から50日間は争議行為が禁止される。<br/>
 <br/>
 ※内容は収録時点（2026年8月9日）の法令・公表資料にもとづきます。個別の対応は社会保険労務士等の専門家または行政窓口（労働局・労働基準監督署・年金事務所など）にご相談ください。]]></content:encoded>
-      <enclosure url="https://akiimaeda2024.github.io/mimi-de-oboeru/2026-08-09.mp3" length="3189933" type="audio/mpeg"/>
+      <enclosure url="https://akiimaeda2024.github.io/mimi-de-oboeru/2026-08-09.mp3" length="3157677" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-08-09</guid>
       <pubDate>Sun, 09 Aug 2026 07:00:00 +0900</pubDate>
-      <itunes:duration>6:38</itunes:duration>
+      <itunes:duration>6:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
     </item>
