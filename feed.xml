@@ -1,21 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>受験生のための社労士ラジオ</title>
+    <title>実務者のための 労務アップデート</title>
     <link>https://akiimaeda2024.github.io/mimi-de-oboeru/</link>
     <language>ja</language>
-    <description>働きながら社労士をめざすあなたへ。毎朝5分、今日おさえる法改正・判例・数字だけ。続けられる軽さで、合格まで伴走します。※内容は収録時点の法令にもとづきます。実際の手続きや判断は、最新の条文・通達と専門家の確認のうえで行ってください。</description>
-    <itunes:author>社労士ラジオ編集部</itunes:author>
-    <itunes:subtitle>テキストでは追えない“今”を、毎朝5分で補う。</itunes:subtitle>
-    <itunes:summary>働きながら社労士をめざすあなたへ。毎朝5分、今日おさえる法改正・判例・数字だけ。続けられる軽さで、合格まで伴走します。※内容は収録時点の法令にもとづきます。実際の手続きや判断は、最新の条文・通達と専門家の確認のうえで行ってください。</itunes:summary>
+    <description>給与計算・社会保険・一人総務の現場で、行政の一次情報を判断材料に。法改正・通達・判例・統計を、毎朝お届けします。運営は税理士事務所で労務実務を担当する実務者です（社会保険労務士ではありません）。（旧：受験生のための社労士ラジオ）※内容は収録時点の法令にもとづきます。実際の手続きや判断は、最新の条文・通達と専門家の確認のうえで行ってください。</description>
+    <itunes:author>労務アップデート編集部</itunes:author>
+    <itunes:subtitle>法改正・通達・判例を、現場の判断材料に。</itunes:subtitle>
+    <itunes:summary>給与計算・社会保険・一人総務の現場で、行政の一次情報を判断材料に。法改正・通達・判例・統計を、毎朝お届けします。運営は税理士事務所で労務実務を担当する実務者です（社会保険労務士ではありません）。（旧：受験生のための社労士ラジオ）※内容は収録時点の法令にもとづきます。実際の手続きや判断は、最新の条文・通達と専門家の確認のうえで行ってください。</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+    <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     <itunes:category text="Education"/>
     <itunes:owner>
-      <itunes:name>社労士ラジオ編集部</itunes:name>
+      <itunes:name>労務アップデート編集部</itunes:name>
       <itunes:email>imaedapodcast@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>再雇用の基本給、6割未満は不合理──名古屋自動車学校差戻審（10/9）</title>
+      <description><![CDATA[定年後再雇用の基本給格差に「6割」という具体的な基準を示した名古屋自動車学校事件の差戻控訴審、フリーランスの労災保険特別加入をめぐる本日の審議会の動き、福利厚生表彰「ハタラクエール2027」応募開始を解説します。<br/>
+<br/>
+今日の3テーマ（積み重なる基準、広がる対象）：<br/>
+<br/>
+①名古屋自動車学校事件・差戻控訴審（名古屋高判令和8年2月26日）<br/>
+嘱託職員の基本給は「正職員定年退職時の基本給の60%を下回ると不合理」と判断。約336万円の支払いを命じました。<br/>
+<br/>
+②フリーランスの労災保険特別加入、本日の労災保険部会で政省令案を諮問<br/>
+対象業種は令和6年11月の限定スタートから拡大が続き、対象見込みは270万人規模と報じられています。<br/>
+<br/>
+③福利厚生表彰「ハタラクエール2027」応募受付開始<br/>
+受付は10月1日〜来年1月31日まで。応募・審査・表彰すべて無料です。<br/>
+<br/>
+▼数字と条文の全文は、テキスト版（note）で<br/>
+https://note.com/humanresources/m/m228c8ea4f093<br/>
+▼番組をフォローすると、毎朝の新着が自動で届きます（無料）<br/>
+<br/>
+※内容は収録時点（2026年10月9日）の法令・公表資料にもとづきます。個別の対応は社会保険労務士等の専門家または行政窓口（労働局・労働基準監督署・年金事務所など）にご相談ください。]]></description>
+      <content:encoded><![CDATA[定年後再雇用の基本給格差に「6割」という具体的な基準を示した名古屋自動車学校事件の差戻控訴審、フリーランスの労災保険特別加入をめぐる本日の審議会の動き、福利厚生表彰「ハタラクエール2027」応募開始を解説します。<br/>
+<br/>
+今日の3テーマ（積み重なる基準、広がる対象）：<br/>
+<br/>
+①名古屋自動車学校事件・差戻控訴審（名古屋高判令和8年2月26日）<br/>
+嘱託職員の基本給は「正職員定年退職時の基本給の60%を下回ると不合理」と判断。約336万円の支払いを命じました。<br/>
+<br/>
+②フリーランスの労災保険特別加入、本日の労災保険部会で政省令案を諮問<br/>
+対象業種は令和6年11月の限定スタートから拡大が続き、対象見込みは270万人規模と報じられています。<br/>
+<br/>
+③福利厚生表彰「ハタラクエール2027」応募受付開始<br/>
+受付は10月1日〜来年1月31日まで。応募・審査・表彰すべて無料です。<br/>
+<br/>
+▼数字と条文の全文は、テキスト版（note）で<br/>
+https://note.com/humanresources/m/m228c8ea4f093<br/>
+▼番組をフォローすると、毎朝の新着が自動で届きます（無料）<br/>
+<br/>
+※内容は収録時点（2026年10月9日）の法令・公表資料にもとづきます。個別の対応は社会保険労務士等の専門家または行政窓口（労働局・労働基準監督署・年金事務所など）にご相談ください。]]></content:encoded>
+      <enclosure url="https://akiimaeda2024.github.io/mimi-de-oboeru/2026-10-09.mp3" length="3773804" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-10-09</guid>
+      <pubDate>Fri, 09 Oct 2026 07:00:00 +0900</pubDate>
+      <itunes:duration>7:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
+    </item>
     <item>
       <title>名目賃金7か月連続3%増は34年ぶり──懲戒解雇無効でも義務違反は相殺される（10/8）</title>
       <description><![CDATA[賃金のデジタル払い、職務専念義務違反と解雇無効の相殺、毎月勤労統計調査の名目賃金34年5か月ぶりの伸び。10月8日の社労士デイリーニュースは、労働者を守る仕組みと、会社・労働者それぞれの請求がどう処理されるかを整理します。<br/>
@@ -59,7 +104,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Thu, 08 Oct 2026 07:00:00 +0900</pubDate>
       <itunes:duration>5:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>45時間基準から健康確保の実質へ──労災認定でも解雇できたあんしん財団事件（10/7）</title>
@@ -100,7 +145,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Wed, 07 Oct 2026 07:00:00 +0900</pubDate>
       <itunes:duration>6:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>社宅の現物給与、算定単位が平方メートルに──9年指導の末の解雇、AGC事件（10/6）</title>
@@ -141,7 +186,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Tue, 06 Oct 2026 07:00:00 +0900</pubDate>
       <itunes:duration>4:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>無期契約社員にも待遇差の理屈が及ぶ──仙台高裁確定、東北映像事件（10/5）</title>
@@ -182,7 +227,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Mon, 05 Oct 2026 07:00:00 +0900</pubDate>
       <itunes:duration>5:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>半年の記録で2年半は語れない──残業代請求で東京地裁が示した推定の限界（10/4）</title>
@@ -227,7 +272,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Sun, 04 Oct 2026 07:00:00 +0900</pubDate>
       <itunes:duration>5:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>競業避止は代償なしでも有効──高知地裁の判例と有効求人倍率1.18倍（10/3）</title>
@@ -272,7 +317,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Sat, 03 Oct 2026 07:00:00 +0900</pubDate>
       <itunes:duration>6:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>お試しの有期契約は試用期間──神戸弘陵学園事件と平均給与487万円（10/2）</title>
@@ -317,7 +362,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Fri, 02 Oct 2026 07:00:00 +0900</pubDate>
       <itunes:duration>4:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>パートの社保、賃金要件が今日撤廃──採用時の説明と違う仕事で解雇無効の福岡地裁（10/1）</title>
@@ -362,7 +407,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Thu, 01 Oct 2026 07:00:00 +0900</pubDate>
       <itunes:duration>5:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>退職に追い込む配転は権利濫用──日赤に賠償命令の松山地裁と人手不足D.I.（9/30）</title>
@@ -407,7 +452,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Wed, 30 Sep 2026 07:00:00 +0900</pubDate>
       <itunes:duration>4:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>精神障害による自死は「故意」ではない──ポーカー店店長の労災を認めた名古屋地裁（9/29）</title>
@@ -452,7 +497,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Tue, 29 Sep 2026 07:00:00 +0900</pubDate>
       <itunes:duration>4:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>農林水産業にも労災保険が強制適用へ──年俸1500万円管理職の解雇が有効になったアマゾン事件（9/28）</title>
@@ -497,7 +542,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Mon, 28 Sep 2026 07:00:00 +0900</pubDate>
       <itunes:duration>4:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>特定適用事業所とは？──届けた覚えがなくても通知で決まる社保の適用拡大（9/28夜）</title>
@@ -542,7 +587,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Mon, 28 Sep 2026 07:00:00 +0900</pubDate>
       <itunes:duration>4:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>カスハラ対策義務化まであと4日──シフト排除は権限濫用と認めたティーエッセンス事件（9/27）</title>
@@ -587,7 +632,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Sun, 27 Sep 2026 07:00:00 +0900</pubDate>
       <itunes:duration>5:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>育児保険料免除まであと5日──組合の街宣は名誉毀損？東京地裁の判断（9/26）</title>
@@ -632,7 +677,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Sat, 26 Sep 2026 07:00:00 +0900</pubDate>
       <itunes:duration>6:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>保険料調整制度が10月開始──パスポート管理は違法、東京高裁が慰謝料増額（9/25）</title>
@@ -677,7 +722,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Fri, 25 Sep 2026 07:00:00 +0900</pubDate>
       <itunes:duration>6:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>求人サイトへの事業停止命令と整理解雇の4要件──東洋酸素事件（9/24）</title>
@@ -722,7 +767,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Thu, 24 Sep 2026 07:00:00 +0900</pubDate>
       <itunes:duration>6:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>賞与の格差、"6割"判断を覆した大阪医科薬科大学事件（9/23）</title>
@@ -767,7 +812,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Wed, 23 Sep 2026 07:00:00 +0900</pubDate>
       <itunes:duration>8:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>派遣の待遇差、説明義務が拡大──酒気帯び解雇を無効とした日本郵便事件（9/22）</title>
@@ -812,7 +857,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Tue, 22 Sep 2026 07:00:00 +0900</pubDate>
       <itunes:duration>8:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>男性育休、初めて5割超え──介護休業の必要性を認めたファーストリテイリング事件（9/21）</title>
@@ -857,7 +902,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Mon, 21 Sep 2026 07:00:00 +0900</pubDate>
       <itunes:duration>6:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>監督の物差しが労働時間から健康確保措置へ──妊娠実習生への調査放棄を断じた判決（9/20）</title>
@@ -902,7 +947,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Sun, 20 Sep 2026 07:00:00 +0900</pubDate>
       <itunes:duration>7:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>社保「106万円の壁」10月消滅──委嘱17年でも労働者性を認めた東京海洋大学事件（9/19）</title>
@@ -947,7 +992,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Sat, 19 Sep 2026 07:00:00 +0900</pubDate>
       <itunes:duration>7:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>パート・有期、10月から「待遇差の説明を求められる」明示が義務に──休職の中断規定は満了後に及ばず（9/18）</title>
@@ -992,7 +1037,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Fri, 18 Sep 2026 07:00:00 +0900</pubDate>
       <itunes:duration>6:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>過半数代表者の要件を法律に書くか──年休を取ると賃上げから外れる80%条項は無効（9/17）</title>
@@ -1037,7 +1082,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Thu, 17 Sep 2026 07:00:00 +0900</pubDate>
       <itunes:duration>7:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>技能実習生の7割超に法令違反──発達障害の解雇・アウティングを違法とした東京高裁（9/16）</title>
@@ -1082,7 +1127,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Wed, 16 Sep 2026 07:00:00 +0900</pubDate>
       <itunes:duration>7:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>個人事業主の社保資格に厚労省が基準──「名誉顧問は労働者か」大成建設事件（9/15）</title>
@@ -1127,7 +1172,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Tue, 15 Sep 2026 07:00:00 +0900</pubDate>
       <itunes:duration>7:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>外国人材の新制度「育成就労」受け入れ開始──手続きの瑕疵で協定無効・松山大学事件（9/14）</title>
@@ -1172,7 +1217,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Mon, 14 Sep 2026 07:00:00 +0900</pubDate>
       <itunes:duration>6:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>カスハラ対応、10月から全企業義務に──立替金は会社と分ける福山通運事件（9/13）</title>
@@ -1217,7 +1262,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Sun, 13 Sep 2026 07:00:00 +0900</pubDate>
       <itunes:duration>7:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>求人サイトに事業停止命令──偽装請負でも派遣先の社員にはならない（9/12）</title>
@@ -1262,7 +1307,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Sat, 12 Sep 2026 07:00:00 +0900</pubDate>
       <itunes:duration>6:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>現金給与総額が34年ぶりの伸び──解雇権濫用法理の原点、日本食塩製造事件（9/9）</title>
@@ -1307,7 +1352,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Wed, 09 Sep 2026 07:00:00 +0900</pubDate>
       <itunes:duration>5:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>遺族補償年金の支給要件見直しへ──一人親方も救済対象、建設アスベスト訴訟（9/8）</title>
@@ -1352,7 +1397,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Tue, 08 Sep 2026 07:00:00 +0900</pubDate>
       <itunes:duration>6:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>建設業の人手不足、派遣に頼れない構造──無許可派遣で刑事告発された事件（9/7）</title>
@@ -1397,7 +1442,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Mon, 07 Sep 2026 07:00:00 +0900</pubDate>
       <itunes:duration>7:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>最低賃金1,177円で全都道府県答申──合意だけでは効かない都南自動車教習所事件（9/4）</title>
@@ -1442,7 +1487,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Fri, 04 Sep 2026 07:00:00 +0900</pubDate>
       <itunes:duration>13:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>労基署の「月45時間」一律指導が9月1日で終了──飲み会後の事故は労災か・行橋労基署長事件（9/3）</title>
@@ -1487,7 +1532,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Thu, 03 Sep 2026 07:00:00 +0900</pubDate>
       <itunes:duration>11:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>標準報酬月額の上限が75万円へ──不調による欠勤は「無断欠勤」か（日本HP事件・9/2）</title>
@@ -1532,7 +1577,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Wed, 02 Sep 2026 07:00:00 +0900</pubDate>
       <itunes:duration>11:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>賃金のデジタル払い、制度見直しが審議会で進行中──同意があっても引けるとは限らない日新製鋼事件（9/1）</title>
@@ -1577,7 +1622,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Tue, 01 Sep 2026 07:00:00 +0900</pubDate>
       <itunes:duration>10:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>子ども・子育て支援金0.23%の天引き開始──7年後の懲戒は無効・ネスレ日本事件（8/29）</title>
@@ -1622,7 +1667,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Sat, 29 Aug 2026 07:00:00 +0900</pubDate>
       <itunes:duration>8:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>社会保険の8.8万円要件が撤廃へ──内定取消は解雇と同じ土俵、大日本印刷事件（8/28）</title>
@@ -1667,7 +1712,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Fri, 28 Aug 2026 07:00:00 +0900</pubDate>
       <itunes:duration>9:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>勤務間インターバルは努力義務のまま5.7%──大林ファシリティーズ事件（8/27）</title>
@@ -1712,7 +1757,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Thu, 27 Aug 2026 07:00:00 +0900</pubDate>
       <itunes:duration>7:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>待遇差の説明請求、10月1日から明示が義務に──退職金の格差を認めたメトロコマース事件（8/26）</title>
@@ -1757,7 +1802,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Wed, 26 Aug 2026 07:00:00 +0900</pubDate>
       <itunes:duration>9:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>通報を理由に解雇したら罰金3,000万円──改正公益通報者保護法とオリンパス事件（8/25）</title>
@@ -1802,7 +1847,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Tue, 25 Aug 2026 07:00:00 +0900</pubDate>
       <itunes:duration>8:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>就活セクハラとカスハラ、10月1日から義務化──賞与をゼロにできない東朋学園事件（8/24）</title>
@@ -1847,7 +1892,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Mon, 24 Aug 2026 07:00:00 +0900</pubDate>
       <itunes:duration>8:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>国民年金の育児免除、10月1日スタート──組合を移れば解雇できない三井倉庫港運事件（8/23）</title>
@@ -1892,7 +1937,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Sun, 23 Aug 2026 07:00:00 +0900</pubDate>
       <itunes:duration>8:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>賃金不払は128億円・解決率85.5%──受診命令を拒んで戒告、電電公社帯広局事件（8/22）</title>
@@ -1937,7 +1982,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Sat, 22 Aug 2026 07:00:00 +0900</pubDate>
       <itunes:duration>8:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>社労士試験 当日の過ごし方──昼食・暑さ・待機場所を前夜に決める（8/22夜）</title>
@@ -1982,7 +2027,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Sat, 22 Aug 2026 07:00:00 +0900</pubDate>
       <itunes:duration>5:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>フリーランスの労災特別加入は料率0.3%──研修医は労働者と認めた関西医科大学事件（8/21）</title>
@@ -2027,7 +2072,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Fri, 21 Aug 2026 07:00:00 +0900</pubDate>
       <itunes:duration>8:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>残業「月45時間一律指導」を9月1日で見直し──残業命令を拒んで懲戒解雇、日立製作所武蔵工場事件（8/20）</title>
@@ -2072,7 +2117,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Thu, 20 Aug 2026 07:00:00 +0900</pubDate>
       <itunes:duration>8:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>教育訓練休暇給付金は最大150日──個別同意なしで出向を命じた新日本製鐵事件（8/19）</title>
@@ -2117,7 +2162,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Wed, 19 Aug 2026 07:00:00 +0900</pubDate>
       <itunes:duration>8:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>子ども・子育て支援金は月250円──療養3年で解雇制限が外れる専修大学事件（8/18）</title>
@@ -2162,7 +2207,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Tue, 18 Aug 2026 07:00:00 +0900</pubDate>
       <itunes:duration>7:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>在職老齢年金の基準額が65万円へ──年休に「使用者の承認」は要らない白石営林署事件（8/17）</title>
@@ -2207,7 +2252,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Mon, 17 Aug 2026 07:00:00 +0900</pubDate>
       <itunes:duration>8:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>一人親方も安衛法の義務主体に（令和8年4月施行）──「うちの社員ではない」が通らない朝日放送事件（8/16）</title>
@@ -2252,7 +2297,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Sun, 16 Aug 2026 07:00:00 +0900</pubDate>
       <itunes:duration>7:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>女性活躍推進法、男女賃金差異の公表が101人以上に──就業規則の不利益変更「第四銀行事件」（8/15）</title>
@@ -2297,7 +2342,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Sat, 15 Aug 2026 07:00:00 +0900</pubDate>
       <itunes:duration>8:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>遺族厚生年金、2028年4月から男女共通で原則5年の有期給付へ──休業手当の6割はどこまで（8/14）</title>
@@ -2342,7 +2387,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Fri, 14 Aug 2026 07:00:00 +0900</pubDate>
       <itunes:duration>8:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>社労士試験まであと9日──不安の9割は「自分で動かせないこと」に使われている（8/14夜）</title>
@@ -2387,7 +2432,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Fri, 14 Aug 2026 07:00:00 +0900</pubDate>
       <itunes:duration>4:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>標準報酬月額の上限75万円へ──「みなし労働」を否定した阪急トラベルサポート事件（8/13）</title>
@@ -2432,7 +2477,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Thu, 13 Aug 2026 07:00:00 +0900</pubDate>
       <itunes:duration>7:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>障害者の法定雇用率2.7%へ、対象は37.5人以上に──採用の自由を線引きした三菱樹脂事件（8/12）</title>
@@ -2477,7 +2522,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Wed, 12 Aug 2026 07:00:00 +0900</pubDate>
       <itunes:duration>7:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>失業給付の日額が8月1日から引き上げ──寝坊2回の解雇はなぜ無効か・高知放送事件（8/11）</title>
@@ -2522,7 +2567,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Tue, 11 Aug 2026 07:00:00 +0900</pubDate>
       <itunes:duration>8:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>2026/8/10 ストレスチェックが50人未満の事業場にも義務化（令和10年4月施行予定）／メンタル不調の不申告と過失相殺・東芝（うつ病・解雇）事件／試験対策：令和7年「労働安全衛生調査」（令和8年8月7日公表）</title>
@@ -2555,7 +2600,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Mon, 10 Aug 2026 07:00:00 +0900</pubDate>
       <itunes:duration>7:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>職場の熱中症、過去最多の1,803人──死亡は4割減、義務化初年の答え合わせ（8/10夜）</title>
@@ -2600,7 +2645,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Mon, 10 Aug 2026 07:00:00 +0900</pubDate>
       <itunes:duration>8:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>2026/8/9 令和8年度の最低賃金は全国加重平均1,176円の目安（+55円・4.9%）／年俸1,700万円でも割増賃金は判別要件・医療法人社団康心会事件／試験対策：労働争議の6割は賃金をめぐる争い（令和7年 労働争議統計調査）</title>
@@ -2633,7 +2678,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Sun, 09 Aug 2026 07:00:00 +0900</pubDate>
       <itunes:duration>6:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>2026/8/9（夜） 社会保険の加入対象拡大・「106万円の壁」＝賃金要件は令和8年10月に撤廃予定／無効な解雇の期間は年休の出勤扱い・八千代交通事件／試験対策：教育訓練給付の指定講座と給付率（令和8年8月6日公表）</title>
@@ -2666,7 +2711,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Sun, 09 Aug 2026 07:00:00 +0900</pubDate>
       <itunes:duration>7:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>2026/7/17 カスハラ対策義務化まで残り3か月（2026年10月1日・中小猶予なし）／相談窓口の運用と信義則上の義務・イビデン事件／試験対策：精神障害の労災でカスハラ127件に増加（令和7年度 過労死等の労災補償状況）</title>
@@ -2699,7 +2744,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Fri, 17 Jul 2026 07:00:00 +0900</pubDate>
       <itunes:duration>9:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>2026/7/1 全国安全週間スタート・職場の安全はどこまで守るのか／使用者の安全配慮義務・川義事件／試験対策：メンタル不調で1か月以上休業・退職した事業所12.8%（令和6年労働安全衛生調査）</title>
@@ -2732,7 +2777,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Wed, 01 Jul 2026 07:00:00 +0900</pubDate>
       <itunes:duration>7:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>2026/6/29 最低賃金目安審議が7月に山場・歩合給から残業代を引けるか（国際自動車事件）・算定基礎届は明日7/1から</title>
@@ -2765,7 +2810,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Mon, 29 Jun 2026 07:00:00 +0900</pubDate>
       <itunes:duration>7:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>2026/6/25 朝 自営業・フリーランスの育児期間、国民年金保険料が免除に（令和8年10月・育児免除）／妊娠を理由とした降格はどこまで許されるか・広島中央保健生協事件／試験対策：国民年金の納付率 現年度78.6%・最終84.5%</title>
@@ -2798,7 +2843,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Thu, 25 Jun 2026 07:00:00 +0900</pubDate>
       <itunes:duration>7:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>2026/6/21 朝 残業には上限がある「時間外労働の上限規制」と2024年問題／着替え・準備の時間は労働時間？三菱重工長崎造船所事件／試験対策：勤務間インターバル導入5.7%（令和7年就労条件総合調査）</title>
@@ -2831,7 +2876,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Sun, 21 Jun 2026 07:00:00 +0900</pubDate>
       <itunes:duration>7:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>2026/6/20 朝 給料は現金だけじゃない「賃金のデジタル払い」（2023年4月〜）／給料は後から差し引ける？賃金全額払いの原則・シンガー事件／試験対策：平均給与478万円（民間給与実態統計調査）</title>
@@ -2864,7 +2909,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Sat, 20 Jun 2026 07:00:00 +0900</pubDate>
       <itunes:duration>7:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>2026/6/18 朝 有期契約の「明示ルール」強化（2024年4月〜）／雇止めはどこまで許される？日立メディコ事件／試験対策：非正規雇用2,128万人と「自分の都合のよい時間に働きたいから」</title>
@@ -2897,7 +2942,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Thu, 18 Jun 2026 07:00:00 +0900</pubDate>
       <itunes:duration>7:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>2026/6/17 朝 年金制度改正法・厚生年金の保険料上限が65万→75万円へ／遺族厚生年金の男女差を見直し（令和10年4月）／長澤運輸事件・定年後再雇用の賃金（試験対策：標準報酬月額の等級）</title>
@@ -2932,7 +2977,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Wed, 17 Jun 2026 07:00:00 +0900</pubDate>
       <itunes:duration>8:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>2026/6/16 朝 技能実習から「育成就労」へ（令和9年4月施行）／旭紙業事件・自分のトラックで運ぶ人は労働者か／外国人労働者230万人の内訳（試験対策）</title>
@@ -2965,7 +3010,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Tue, 16 Jun 2026 07:00:00 +0900</pubDate>
       <itunes:duration>7:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>2026/6/15 夜 傷病手当金は「通算」1年6か月へ（令和4年改正）／片山組事件・休んでも賃金請求できる場合／健康保険の現金給付の数字（出産育児一時金50万円ほか）</title>
@@ -2998,7 +3043,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Mon, 15 Jun 2026 07:00:00 +0900</pubDate>
       <itunes:duration>6:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>2026/6/15 雇用保険が週10時間以上に拡大（2028年10月）／秋北バス事件・就業規則で定年制を新設できるか／賃金センサス所定内給与33万400円・ピークは55〜59歳</title>
@@ -3031,7 +3076,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Mon, 15 Jun 2026 06:00:00 +0900</pubDate>
       <itunes:duration>7:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>2026/6/13 男女の賃金差公表が101人以上の企業に拡大／日産自動車事件・男女別定年制は無効／総合労働相談120万件・いじめ嫌がらせ13年連続最多</title>
@@ -3064,7 +3109,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Sat, 13 Jun 2026 07:00:00 +0900</pubDate>
       <itunes:duration>7:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>2026/6/13 夜 カスハラも労災に・精神障害の認定基準（令和5年改正）／東亜ペイント事件・転勤命令の3要件／過労死ラインと令和6年度労災補償状況</title>
@@ -3097,7 +3142,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Sat, 13 Jun 2026 07:00:00 +0900</pubDate>
       <itunes:duration>7:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>2026/6/12 熱中症対策義務化・2年目の夏を総点検／山梨県民信用組合事件・同意書だけでは守れない／男性育休取得率40.5%・初の4割超え</title>
@@ -3130,7 +3175,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Fri, 12 Jun 2026 07:00:00 +0900</pubDate>
       <itunes:duration>6:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>2026/6/11 令和8年度の年金額・6月15日支給分からスタート／大和銀行事件・賞与の支給日在籍要件／算定基礎届＆推定組織率16.0%過去最低</title>
@@ -3163,7 +3208,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Thu, 11 Jun 2026 07:00:00 +0900</pubDate>
       <itunes:duration>7:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>2026/6/10 令和8年度の雇用保険料率引下げ＆年度更新／大星ビル管理事件・仮眠時間の労働時間性／裁量労働制の実態調査＆就労条件総合調査</title>
@@ -3196,7 +3241,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Wed, 10 Jun 2026 07:00:00 +0900</pubDate>
       <itunes:duration>8:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>2026/6/9 ストレスチェック全事業場義務化・施行は2028年4月／電通事件・安全配慮義務／令和7年労災 死亡700人で過去最少</title>
@@ -3229,7 +3274,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Tue, 09 Jun 2026 07:00:00 +0900</pubDate>
       <itunes:duration>6:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>2026/6/8 教育訓練給付80%へ拡充／ハマキョウレックス事件・手当の個別判断／出生率1.14・過去最低</title>
@@ -3262,7 +3307,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Mon, 08 Jun 2026 07:00:00 +0900</pubDate>
       <itunes:duration>6:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>2026/6/7 障害者の法定雇用率2.7%へ／定年後再雇用の賃金（名古屋自動車学校事件）／最低賃金1,121円</title>
@@ -3295,7 +3340,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Sun, 07 Jun 2026 07:00:00 +0900</pubDate>
       <itunes:duration>4:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>2026/6/7夜 106万円の壁撤廃（10月）／日本郵便事件・非正規格差／実質賃金+1.9%</title>
@@ -3328,7 +3373,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Sun, 07 Jun 2026 07:00:00 +0900</pubDate>
       <itunes:duration>6:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>2026/6/6 育児・介護休業法の改正／職種限定合意と配置転換（最判令6.4.26）／年次有給休暇取得率66.9%</title>
@@ -3361,7 +3406,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Sat, 06 Jun 2026 07:00:00 +0900</pubDate>
       <itunes:duration>4:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
     <item>
       <title>2026/6/6 カスハラ対策の義務化／定額残業代の有効性／労働経済白書・2024年の雇用情勢</title>
@@ -3394,7 +3439,7 @@ https://note.com/humanresources/m/m228c8ea4f093<br/>
       <pubDate>Sat, 06 Jun 2026 06:00:00 +0900</pubDate>
       <itunes:duration>4:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v3.jpg"/>
+      <itunes:image href="https://akiimaeda2024.github.io/mimi-de-oboeru/cover-v4.jpg"/>
     </item>
   </channel>
 </rss>
